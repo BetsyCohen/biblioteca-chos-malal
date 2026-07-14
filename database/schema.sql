@@ -1,2 +1,9 @@
--- Esquema inicial de la base de datos
 -- Proyecto Biblioteca Chos Malal
+
+-- Usuarios
+
+-- Libros
+
+-- Relevamientos
+
+-- Fotos

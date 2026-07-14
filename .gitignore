@@ -47,3 +47,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# env data
+.env
+
+# fotos y datos
+data/
+fotos/
+

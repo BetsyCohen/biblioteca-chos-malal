@@ -1,10 +1,15 @@
 library(shiny)
 
 ui <- fluidPage(
-  h1("Biblioteca Chos Malal")
+  titlePanel("Biblioteca Chos Malal"),
+  
+  h3("MVP Relevamiento Patrimonial"),
+  
+  p("Primera versión de la aplicación")
 )
 
-server <- function(input, output, session) {
+server <- function(input, output, session){
+  
 }
 
 shinyApp(ui, server)
